@@ -1,11 +1,11 @@
 ![Tool Logo][imglogo]
 
 
-# Title
-Description of contents
+# Taguette Tutorial
+Taguette is a qualitative analysis tool that allows you to upload a collection of documents, create a hierarchy of tags, and annotate portions of documents with tags and notes that you can recall and organize later.  This information and more can be found on Taguettes official website [here](https://app.taguette.org/).
 
-### First header
-Content
+### Getting Taguette
+You can use the free online version of Taguette hosted on the Taguette teams servers by registering on [their site](https://app.taguette.org/) or you can download Taguette [here](https://www.taguette.org/install.html) and run it on your own machine.
 
 ### Second Header
 
