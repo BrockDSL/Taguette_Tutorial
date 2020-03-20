@@ -7,11 +7,12 @@ Taguette is a qualitative analysis tool that allows you to upload a collection o
 ### Getting Taguette
 You can use the free online version of Taguette hosted on the Taguette teams servers by registering on [their site](https://app.taguette.org/) or you can download Taguette [here](https://www.taguette.org/install.html) and run it on your own machine.
 
-### Second Header
+### Setting up a Project
+Once you have installed Taguette, open the program.  Taguette will open in your computers preferred web browser.  On the first screen you will be able to open your old projects as well as create new projects.  Select "Create a project", give it a name and a description and then click the "Create" button.
 
-Content
+![Create a project page][img1]
 
-### Etc.
+
  
  
  
@@ -37,3 +38,4 @@ You can also find us on:
 
 [dsllogo]: dsl_logo.png
 [imglogo]: taguettelogo.png
+[img1]: tagim1.png
