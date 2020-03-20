@@ -10,6 +10,12 @@ You can use the free online version of Taguette hosted on the Taguette teams ser
 ### Setting up a Project
 Once you have installed Taguette, open the program.  Taguette will open in your computers preferred web browser.  On the first screen you will be able to open your old projects as well as create new projects.  Select "Create a project", give it a name and a description and then click the "Create" button.
 
+### Working in Taguette
+
+There are three main sections in Taguette accessed by the tabs in the menu on the left.  These sections are "Project Info", "Documents", and "Highlights".
+The Project Info tab contains the name and description of the project, the menu for exporting your project, and the button that allows you to delete the project.
+
+
 ![Create a project page][img1]
 
 
